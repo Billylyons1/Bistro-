@@ -1,11 +1,10 @@
-# Bistro-
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Black Goose Bistro</title>
   </head>
   <body>
-    <h1>Black Goose Bistro</h1>
+    <h1><img src="blackgoose.png" alt="Black Goose logo"/> Black Goose Bistro</h1>
     <h2>The Restaurant</h2>
     <p>The Black Goose Bistro offers casual lunch and dinner fare in a hip atmosphere. The menu changes regularly to highlight the freshest ingredients.
     </p>
